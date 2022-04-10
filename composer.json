@@ -1,8 +1,8 @@
 {
-	"name": "webshan/joomla",
+	"name": "webshan/drupal",
 	"type": "project",
-	"description": "Dockerized Joomla development environment",
-	"keywords": ["Joomla", "Docker"],
+	"description": "Dockerized Drupal development environment",
+	"keywords": ["Drupal", "Docker"],
 	"license": "MIT",
 	"authors": [
 		{
